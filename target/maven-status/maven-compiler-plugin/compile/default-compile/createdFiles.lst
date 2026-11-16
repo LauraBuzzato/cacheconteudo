@@ -1,0 +1,11 @@
+com/exemplo/cacheconteudo/dto/ConteudoRequest.class
+com/exemplo/cacheconteudo/CacheconteudoApplication.class
+com/exemplo/cacheconteudo/cache/EntradaCache.class
+com/exemplo/cacheconteudo/model/Conteudo.class
+com/exemplo/cacheconteudo/repository/ConteudoRepository.class
+com/exemplo/cacheconteudo/controller/ConteudoController.class
+com/exemplo/cacheconteudo/dto/ConteudoResponse.class
+com/exemplo/cacheconteudo/service/ConteudoService.class
+com/exemplo/cacheconteudo/controller/CacheController.class
+com/exemplo/cacheconteudo/cache/ConteudoCache.class
+com/exemplo/cacheconteudo/mapper/ConteudoMapper.class

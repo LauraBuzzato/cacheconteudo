@@ -1,0 +1,11 @@
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/CacheconteudoApplication.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/cache/ConteudoCache.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/cache/EntradaCache.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/controller/CacheController.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/controller/ConteudoController.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/dto/ConteudoRequest.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/dto/ConteudoResponse.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/mapper/ConteudoMapper.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/model/Conteudo.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/repository/ConteudoRepository.java
+/Users/usuario/Downloads/cacheconteudo/src/main/java/com/exemplo/cacheconteudo/service/ConteudoService.java
