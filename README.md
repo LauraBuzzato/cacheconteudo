@@ -2,6 +2,22 @@
 
 Integrantes: Laura e Munir
 
+## Como rodar
+
+O projeto utiliza Java 21 e Spring Boot 4.
+
+Na pasta do projeto, execute:
+
+./mvnw spring-boot:run
+
+Também é possível executar a classe CacheconteudoApplication
+pelo IntelliJ.
+
+A aplicação estará disponível em http://localhost:8080.
+
+O banco H2 fica em memória, então os conteúdos cadastrados
+são perdidos ao encerrar a aplicação.
+
 ## Como o cache funciona
 
 O cache foi construído com ConcurrentHashMap, sem biblioteca
